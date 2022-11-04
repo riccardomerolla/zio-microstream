@@ -1,6 +1,6 @@
 scalaVersion := "3.1.3"
 organization := "dev.zio"
-name := "zio-quickstart-hello-world"
+name := "zio-microstream"
 
 libraryDependencies += "dev.zio" %% "zio" % "2.0.2"
 libraryDependencies += "dev.zio" %% "zio-streams" % "2.0.2"
