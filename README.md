@@ -1,22 +1,38 @@
-# ZIO Quickstart Hello World
+# ZIO Microstream
 
-This is the simplest quickstart for a ZIO application. You can download and run it very quickly. This will give you an idea of how to write similar apps.
+| Project Stage | CI | Release | Snapshot | Discord |
+| --- | --- | --- | --- | --- |
+| [![Project stage][Stage]][Stage-Page] | ![CI][Badge-CI] | [![Release Artifacts][Badge-SonatypeReleases]][Link-SonatypeReleases] | [![Snapshot Artifacts][Badge-SonatypeSnapshots]][Link-SonatypeSnapshots] | [![Discord][Badge-Discord]][Link-Discord] |
 
-## Quickstart Guide
+ZIO Microstream is a type-safe, performant, ZIO native Microstream library.
 
-We have a dedicated article about this quickstart at the ZIO documentation website called [ZIO Quickstart: Hello World](https://zio.dev/guides/quickstarts/hello-world/)
+> The client is still a work-in-progress. Watch this space!
+# Documentation
 
-## Running The Example
+Learn more on the ...
 
-First, open the console and clone the project using `git` (or you can simply download the project) and then change the directory:
+# Contributing
 
-```scala
-git clone git@github.com:zio/zio-quickstart-hello-world.git 
-cd zio-quickstart-hello-world
-```
+...
 
-Once you are inside the project directory, run the application:
+## Code of Conduct
 
-```scala
-sbt run
-```
+...
+
+## Support
+
+...
+
+# License
+
+[License](LICENSE)
+
+[Badge-CI]: https://github.com/zio/zio-redis/workflows/CI/badge.svg
+[Badge-Discord]: https://img.shields.io/discord/629491597070827530?logo=discord
+[Badge-SonatypeReleases]: https://img.shields.io/nexus/r/https/oss.sonatype.org/dev.zio/zio-redis_2.12.svg
+[Badge-SonatypeSnapshots]: https://img.shields.io/nexus/s/https/oss.sonatype.org/dev.zio/zio-redis_2.12.svg
+[Link-Discord]: https://discord.gg/2ccFBr4
+[Link-SonatypeReleases]: https://oss.sonatype.org/content/repositories/releases/dev/zio/zio-redis_2.12/
+[Link-SonatypeSnapshots]: https://oss.sonatype.org/content/repositories/snapshots/dev/zio/zio-redis_2.12/
+[Stage]: https://img.shields.io/badge/Project%20Stage-Experimental-yellow.svg
+[Stage-Page]: https://github.com/zio/zio/wiki/Project-Stages
